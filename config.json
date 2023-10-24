@@ -1,0 +1,13 @@
+{
+    "tld": "test",
+    "loopback": "127.0.0.1",
+    "paths": [
+        "/Users/aungthuzaw/.config/valet/Sites"
+    ],
+    "directory-listing": "off",
+    "logs": {
+        // Your logs files path.....
+        // Eg. "mailpit": "/usr/local/var/log/mailpit.log"
+    },
+    "default": "Your fallback site path goes here ...."
+}
